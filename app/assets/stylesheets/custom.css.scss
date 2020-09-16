@@ -5,6 +5,7 @@
     font-size: 3rem;
 }
 */
+
 .search-area {
     padding-top: 50px;
 }
@@ -15,4 +16,13 @@
 
 .no-left-padding {
     padding-left: 0 !important;
-}  
+}
+
+.results-block {
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.logout-button {
+    margin-right: 5px;
+}
